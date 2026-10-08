@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Obsidian workspace/state settings
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# System files
+.DS_Store
+Thumbs.db
